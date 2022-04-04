@@ -1,5 +1,7 @@
 # typeorm-express-gen-script
 
+### visit https://pro-type-express-gen.web.app/
+
 JS Script for generating boilerplate Typeorm code
 Configure app name in generator.js
 cd into project
